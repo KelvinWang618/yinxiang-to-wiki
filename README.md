@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![English](https://img.shields.io/badge/README-English-blue)](README.en.md)
 
 一键将印象笔记全部内容导入 Obsidian + Claude Code 知识库，支持自动分类、敏感信息脱敏、增量同步。
 
